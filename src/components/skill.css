@@ -71,8 +71,6 @@
 @media screen and (max-width:800px) {
     
     .skills-page{
-        position: relative;
-        top: 0rem;
         margin-top: 3rem;
         width: auto;
         height: auto;
@@ -94,6 +92,8 @@
         display: block;
         align-items: center;
         text-align: center;
+        position: relative;
+
     }
     .frontend-skill{
         position: relative;

@@ -209,11 +209,13 @@ body{
   }
   
   .homepage{
+    height: auto;
     display: block;
     margin-bottom: 0%;
     margin-top: 0%;
     position: relative;
     top: 3.5rem;
+  
   }
   .home-text{
     width: auto;
@@ -244,12 +246,6 @@ body{
     justify-content: center;
     align-items: center;   
   }
-  /* .afterimages{
-    display: flex;
-    justify-content: center;
-    position: relative;
-    margin-top: 3.2rem;
-  } */
   .home-text h1{
     text-align: center;
     font-size: 1.3rem;
@@ -280,16 +276,13 @@ body{
     display: block;
     background: #292b42;
     cursor: pointer;
-   border: none;
-   font-size: 1.2rem;
-   padding: 0.5rem;
-   position: relative;
-   top: 4rem;
-   left: 50%;
-   transform: translate(-50%);
-   margin-bottom: 0%;
+    border: none;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    position: relative;
+    top: 4rem;
+    left: 50%;
+    transform: translate(-50%);
   }
-  .homepage{
-    height: auto;
-  }
+
 }

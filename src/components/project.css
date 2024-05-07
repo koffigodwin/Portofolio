@@ -62,15 +62,15 @@ a .single-card p{
 }
 @media screen and (max-width:800px) {
     .project-controler{
-        position: relative;
+        /* position: relative;
+        top: -7rem; */
         width: 100%;
         height: auto;
         z-index: 0;
-        top: 0rem;
+
     }
     .project-card{
         position: relative;
-       
         left: 50%;
         transform: translate(-50%);
     }

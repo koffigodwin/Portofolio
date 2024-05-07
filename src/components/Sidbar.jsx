@@ -13,7 +13,7 @@ const Sidbar = () => {
             <li><a href="#Home">Home</a></li>
             <li><a href="#About">About</a></li>
             <li><a href="#Skills">Skills</a></li>
-            <li><a href="#Portofolio">Portofolio</a></li>
+            <li><a href="#Portofolio">Portfolio</a></li>
             <li><a href="#Contact">Contact</a></li>
            </ul>
         </div>

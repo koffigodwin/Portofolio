@@ -67,12 +67,17 @@
 @media screen and (max-width:800px){
 
     .about-page{
-        position: relative;
-        top: 0rem;
         margin-bottom: 20px;
-        margin-top: 0%;
+        margin-top: -20%;
         width: 100%;
         height: auto;
+    }
+    .about-page h1{
+        text-align: center;
+        font-weight: 600;
+        letter-spacing: normal;
+        font-size: 2rem;
+        margin-bottom: 5px;
     }
 
     .about-container{
