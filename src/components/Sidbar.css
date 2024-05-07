@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.sidbar-container{
+    display:  none;
+    z-index: 99;
+}
+.check-sidbar{
+    display: none;
+}
+
+.page-sidbar ul{
+     font-size: 1.2rem;
+     text-decoration: none;
+
+}
+.page-sidbar ul li{
+    margin-top: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.page-sidbar ul li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.link-sidbar h3{
+     margin-left: 30px;
+     font-size: 1.3rem;
+     position: relative;
+     top: 2rem;
+}
+.link-sidbar ul{
+    position: relative;
+    top: 2.2rem;
+    font-size: 1.1rem;
+}
+.link-sidbar ul li{
+    margin-top: 20px;
+    list-style-type: none;
+}
+.link-sidbar ul li a{
+    text-decoration: none;
+    color: #2e2a42;
+}
+
+.sidbar-container p{
+    position: relative;
+    text-align: center;
+    top: 4rem;
+}
+
+
+@media screen and (max-width : 700px) {
+
+    .sidbar-container{
+        display: block;
+        position: fixed;
+        top: 0%;
+        padding-top: 4.5rem;
+        width: 50%;
+        height: 100vh;
+        background: #fff;
+    }
+    .check-sidbar{
+        display: none;
+    }
+}
