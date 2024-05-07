@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <section id='Contact' className='contact-section'>
      <h1>Send Me a Message</h1>
-    <p>Got a question or proposal , just want to say 
+    <p className='contact-paragraph'>Got a question or proposal , just want to say 
        hello ! Go ahead</p>
                <div className="sub-first-contact">
                <div className="email">

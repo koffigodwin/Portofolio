@@ -170,17 +170,16 @@
         align-items: center;
         padding-top: 5.5rem;
         margin-bottom: 20px;
-        
-    }
-    .contact-section p{
-        text-align: center;
-        font-family: sans-serif;
-        margin:  20px;
     }
     .second-contact{
         position: relative;
         left: 50%;
         transform: translate(-50%);
+    }
+    .contact-paragraph{
+        text-align: center;
+        font-family: sans-serif;
+        margin: 20px;
     }
     .sub-first-contact{
         position: relative;
