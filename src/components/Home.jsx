@@ -26,7 +26,7 @@ const Home = () => {
        <div className="Home-image">
         <img className='images' src={image} alt="image"/>
         
-       <button className='message-btn'><a href="https://wa.me/7200463254">Say Hello <FaLocationArrow className='file-icon'/> </a></button>
+       <button className='message-btn'><a href="https://wa.me/+917200463254">Say Hello <FaLocationArrow className='file-icon'/> </a></button>
        </div>
         </div>
        <p className='scroll-down'><a href="#Contact"><BsMouse3Fill /> scroll down <FaArrowDown /></a></p>

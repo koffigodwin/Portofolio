@@ -33,7 +33,7 @@ const About = () => {
 
 
 
-             <button className='resume-about'><a href="/">Dowanload cv <CiFileOn className='file-icon'/> </a></button> 
+             <button className='resume-about'><a href="https://drive.google.com/file/d/1W-ZgZu_SmUzI-lB8nqp4sKv8c-ac9_aD/view?usp=drive_link">Dowanload cv <CiFileOn className='file-icon'/> </a></button> 
         </div>
         </div>
 
