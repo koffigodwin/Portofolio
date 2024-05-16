@@ -20,7 +20,7 @@ const Home = () => {
           <div className='lines'></div>
            <h4 className='jobname'>Web Developer</h4>
         </div>
-        <p>I'm a passionate frontend developer and very dedicated to my work with two years expirience</p>
+        <p>I'm a passionate frontend developer and very dedicated to my work with two years experience</p>
         <button className='messages-btn'><a href="/">Say Hello <FaLocationArrow className='file-icon'/> </a></button>
        </div>
        <div className="Home-image">

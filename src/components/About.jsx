@@ -19,7 +19,7 @@ const About = () => {
             
             <p className='description'>I am web developer with years of experience,Armed with a solid foundation in frontend and backend development
             with a passion for innovation , I bring a fresh perspective to every project. a hard worker and team worker with a problem solving skills
-             , I have help many people to archive their project and colaborate with other developers </p>
+             , I have helped many people to achieve their project and colaborate with other developers </p>
 
 
         <div className="resume">

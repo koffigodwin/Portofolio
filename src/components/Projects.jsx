@@ -6,7 +6,7 @@ import './project.css'
 const Projects = () => {
   return (
     <section className='project-controler' id='Portofolio'>
-      <h1>Portofolio</h1>
+      <h1>Portfolio</h1>
       <p className='previous-work'>my previous works</p>
       <div className="project-detaits">
          {

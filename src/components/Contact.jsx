@@ -34,7 +34,7 @@ const Contact = () => {
      <footer className='footer'>
       <div className="projecttalk">
         <p>Let's talk about project ! I believe in fact that every idea you have in your mind can  be achieved.
-          Every project starts with a chat let's convert your brillant ideas to the reality </p>
+          Every project starts with a chat, let's convert your brilliant ideas to the reality </p>
           <a href="https://wa.me/+917200463254">Tell me about your project</a>
       </div>
     
